@@ -1,3 +1,7 @@
+pasta-master Здесь содержатся черновики уроков и некоторые задания.
+
+phpbook-master Сайт учебника PHP
+
 README
 
 ### Set up GitHub Copilot    
